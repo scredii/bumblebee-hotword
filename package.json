@@ -1,11 +1,37 @@
 {
-  "name": "bumblebee-hotword",
-  "version": "0.0.1",
+  "_from": "git+https://github.com/scredii/bumblebee-hotword.git",
+  "_id": "bumblebee-hotword@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/bumblebee-hotword",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "bumblebee-hotword@git+https://github.com/scredii/bumblebee-hotword.git",
+    "name": "bumblebee-hotword",
+    "escapedName": "bumblebee-hotword",
+    "rawSpec": "git+https://github.com/scredii/bumblebee-hotword.git",
+    "saveSpec": "git+https://github.com/scredii/bumblebee-hotword.git",
+    "fetchSpec": "https://github.com/scredii/bumblebee-hotword.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/scredii/bumblebee-hotword.git#bfed4bfdb118912148db8d7311f8954dee96ffbe",
+  "_spec": "bumblebee-hotword@git+https://github.com/scredii/bumblebee-hotword.git",
+  "_where": "/Users/technical/bweez/fork-armani-service-front",
+  "author": {
+    "name": "Jaxcore"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A minimalist hotword / wake word for the web, based on Porcupine",
+  "license": "Apache-2.0",
   "main": "lib/bumblebee.js",
+  "name": "bumblebee-hotword",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jaxcore",
-  "license": "Apache-2.0"
+  "version": "0.0.1"
 }
